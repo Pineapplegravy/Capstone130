@@ -15,7 +15,10 @@ body {
     padding: 20px;
 }
 
-/* Header styling for a welcoming feel */
+h1 {
+    text-align: left;
+  }
+/* Header styling for a welcoming feel to my capstone */
 header {
     background-color: #5289e7;
     color: white;
@@ -33,7 +36,7 @@ header h2 {
     margin-top: 10px;
 }
 
-/* Styling for sections */
+/* Styling for section container */
 section {
     margin: 20px 0;
     padding: 15px;
